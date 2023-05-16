@@ -9,6 +9,7 @@ This repository contains the following LeetCode problems' solutions:
 |  20            |      Valid Parentheses        |  -                          | -        |[My Notebook](https://colab.research.google.com/github/BISH0808/Leetcode_problems/blob/main/Problem_14_Longest_Common_Prefix.ipynb) | 
 |  21            |      Merge Two Sorted Lists        |  -                          | -         |[My Notebook](https://colab.research.google.com/github/BISH0808/Leetcode_problems/blob/main/Problem_21_Merge_Two_Sorted_Lists.ipynb) | 
 |  144            |       Binary Tree Preorder Traversal        |  -                          | -         |[My Notebook](https://colab.research.google.com/github/BISH0808/Leetcode_problems/blob/main/Problem_144_Binary_Tree_Preorder_Traversal.ipynb) |
+|  #            |       Linked list loop        |  -                          | -         |[My Notebook](https://colab.research.google.com/github/BISH0808/Leetcode_problems/blob/main/Problem_144_Binary_Tree_Preorder_Traversal.ipynb) |
 
 
 #You can run the notebooks on Google Colab by following the links.
