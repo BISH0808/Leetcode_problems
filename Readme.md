@@ -20,9 +20,9 @@ These videos are recommended for Leetcode problems understanding:
 
 | Number        | Name                             | Description                                                   |  Lanuage         |  Reference       | 
 | ------------- |:--------------------------------:|:-------------------------------------------------------------:|:----------------:|-----------------:|
-|  1            |      Легендарный Влад Тен УНИЧТОЖАЕТ задачи на связные списки — leetcode паттерны и алгоритмы           |  Vlad Ten solves leetcode problems           | Russian          | [Video by Razrabi ](https://www.youtube.com/watch?v=b6-_GVGrgzw&list=PLdrkFH5HIVuA8Qx2zReirF-4YTTrMP5KW&index=2)
+|  1            |      Легендарный Влад Тен УНИЧТОЖАЕТ задачи на связные списки — leetcode паттерны и алгоритмы           |  Vlad Ten solves Linked list  problems on Leetcode           | Russian          | [Video by Razrabi ](https://www.youtube.com/watch?v=b6-_GVGrgzw&list=PLdrkFH5HIVuA8Qx2zReirF-4YTTrMP5KW&index=2)
 |  2            |      LeetCode Марафон Easy (100 задач)      |  100 solutions of easy Leetcode problems           | Russian          | [Video ](https://www.youtube.com/watch?v=Pp84Sv041xA&list=PLdrkFH5HIVuA8Qx2zReirF-4YTTrMP5KW&index=3&t=12s)
-|  3            |      Мок собеседование на алгоритмы – Влад Тен – Linked list loop    |  Влад Тен объясняет задачи на Leetcode в формате собеседоваиня            | Russian          | [Video ](https://www.youtube.com/watch?v=b6-_GVGrgzw&list=PLdrkFH5HIVuA8Qx2zReirF-4YTTrMP5KW&index=4&t=442s)
+
 
  #Leetcode #problems
 
