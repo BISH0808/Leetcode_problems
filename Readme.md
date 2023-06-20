@@ -1,6 +1,6 @@
-Ace Coding Interview with 75 Qs - is [Here](https://github.com/BISH0808/Leetcode_problems/tree/main/Leetcode75)
+* Ace Coding Interview with 75 Qs - is [Here](https://github.com/BISH0808/Leetcode_problems/tree/main/Leetcode75)
 
-This repository also contains the following LeetCode problems' solutions:
+* This repository also contains the following LeetCode problems' solutions:
 
 | Number        | Name                             | Description        |  Difficulty        |  Algorithms used        |  Online Notebook | 
 |:-----------:|:--------------------------------:|:------------------:|:------------------:|:-----------------------:|-----------------:|
@@ -18,7 +18,7 @@ This repository also contains the following LeetCode problems' solutions:
 #You can run the notebooks on Google Colab by following the links.
 
 
-These videos are recommended for Leetcode problems understanding:
+* These videos are recommended for Leetcode problems understanding:
 
 
 | Number        | Name                             | Description                                                   |  Lanuage         |  Reference       | 
