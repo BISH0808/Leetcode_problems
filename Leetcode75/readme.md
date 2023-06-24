@@ -1,6 +1,4 @@
-* Ace Coding Interview with 75 Qs - is [Here](https://github.com/BISH0808/Leetcode_problems/tree/main/Leetcode75)
-
-* This repository also contains the following LeetCode problems' solutions:
+* This repository contains Ace Coding Interview with 75 Qs :
 
 | Number        | Name                             | Description        |  Difficulty        |  Algorithms used        |  Online Notebook | 
 |:-----------:|:--------------------------------:|:------------------:|:------------------:|:-----------------------:|-----------------:|
