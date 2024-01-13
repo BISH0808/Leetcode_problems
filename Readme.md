@@ -3,7 +3,7 @@
 * This repository also contains the following LeetCode problems' solutions:
 
 | Number        | Name                             | Description        |  Difficulty        |  Algorithms used        |  Online Notebook |  Tags | 
-|:-----------:|:--------------------------------:|:------------------:|:------------------:|:-----------------------:|-----------------:|
+|:-----------:|:--------------------------------:|:------------------:|:------------------:|:-----------------------:|:-----------------:|---------------:|
 |  1            |      Two Sum                     |  Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.       |  Easy     | Enumeration          | [My Notebook] |   | (https://colab.research.google.com/github/BISH0808/Leetcode_problems/blob/main/Problem_1_Two_Sum.ipynb)
 |  9            |      Palindrome Number           |  -        |  Easy                       | -          |[My Notebook](https://colab.research.google.com/github/BISH0808/Leetcode_problems/blob/main/Problem_9_Palindrome_Number.ipynb) |  | 
 |  13            |      Roman to Integer  |  -             |  Easy           | -         |[My Notebook](https://colab.research.google.com/github/BISH0808/Leetcode_problems/blob/main/Problem_13_Roman_to_Integer.ipynb) |   | 
