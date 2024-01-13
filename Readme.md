@@ -14,7 +14,7 @@
 |  203            |       Remove Linked List Elements        |  Problem Solved by Vlad Ten ([video by Vlad Ten](https://www.youtube.com/watch?v=b6-_GVGrgzw&list=PLdrkFH5HIVuA8Qx2zReirF-4YTTrMP5KW&index=4&t=442s))            |  Medium      | Linked List Loop       |[My Notebook](https://colab.research.google.com/drive/1PZf8LeNWTMRmiN-jUQ9yvi0nO_tT5-AC) |  | 
 |  27            |       Remove Element        |  -            |  Easy                | Linear search        |[My Notebook](https://colab.research.google.com/drive/1FZIGqbGc9vQxLhaQP4M78l1LMbd80fBL#scrollTo=Wi6D0zZePzD-) |    | 
 |  704            |       Binary Search        |  -            |  Easy                | Binary search        |[My Notebook](https://colab.research.google.com/drive/1V7QKybL0dHWWTtZcGLoxOujNwg8fXzHB) |  | 
-|  35       |     Search Insert Position         |  -            |  Easy                | Binary search        |[My Notebook](https://colab.research.google.com/drive/1V7QKybL0dHWWTtZcGLoxOujNwg8fXzHB) | #Array |
+|  35       |     Search Insert Position         |  -            |  Easy                | Binary search        |[My Notebook](https://colab.research.google.com/drive/1r0_CsKr14R_vBNpmnuTvt7Qv7L2WR5sA)| #Array |
 #You can run the notebooks on Google Colab by following the links.
 
 
