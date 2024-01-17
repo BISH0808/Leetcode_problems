@@ -15,6 +15,7 @@
 |  27            |       Remove Element        |  -            |  Easy                | Linear search        |[My Notebook](https://colab.research.google.com/drive/1FZIGqbGc9vQxLhaQP4M78l1LMbd80fBL#scrollTo=Wi6D0zZePzD-) |    | 
 |  704            |       Binary Search        |  -            |  Easy                | Binary search        |[My Notebook](https://colab.research.google.com/drive/1V7QKybL0dHWWTtZcGLoxOujNwg8fXzHB) |  | 
 |  35       |     Search Insert Position         |  -            |  Easy                | Binary search        |[My Notebook](https://colab.research.google.com/drive/1r0_CsKr14R_vBNpmnuTvt7Qv7L2WR5sA)| #Array |
+|  66       |     Plus one         |  -            |  Easy                |         |[My Notebook](https://colab.research.google.com/drive/1r8jvahjO-ZjoY3AUKA_r76-Wzo0aUfIS#scrollTo=swIy5qLWTX2A)| #Array |
 
 #You can run the notebooks on Google Colab by following the links.
 
