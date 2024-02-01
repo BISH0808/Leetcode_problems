@@ -16,7 +16,7 @@
 |  704            |       Binary Search        |  -            |  Easy                | Binary search        |[My Notebook](https://colab.research.google.com/drive/1V7QKybL0dHWWTtZcGLoxOujNwg8fXzHB) |  | |
 |  35       |     Search Insert Position         |  -            |  Easy                | Binary search        |[My Notebook](https://colab.research.google.com/drive/1r0_CsKr14R_vBNpmnuTvt7Qv7L2WR5sA)| #Array | |
 |  66       |     Plus one         |  -            |  Easy                |         |[My Notebook](https://colab.research.google.com/drive/1r8jvahjO-ZjoY3AUKA_r76-Wzo0aUfIS#scrollTo=swIy5qLWTX2A)| #Array | [Plus one](https://leetcode.com/problems/plus-one/)
-|  88       |     Merge Sorted Array         |  -            |  Easy                |         |[My Notebook]| #Array | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+|  88       |     Merge Sorted Array         |  -            |  Easy                |         |[My Notebook](https://colab.research.google.com/drive/11o45uEv866Jx6xnjbdZZNwJ5lmCd_ILS#scrollTo=fia9w0eITZKc)| #Array | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
 #You can run the notebooks on Google Colab by following the links.
 
